@@ -1,6 +1,6 @@
-## Your Name
+## Marina Papapetrou
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthustiastic team player that will ensure any project reaches completetion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results, I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I look forward to bringing new ideas to the company I work for that will help us keep up with the latest of trends.
 
 ## Projects
 
@@ -11,13 +11,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance Business Owner** (start-date to end-date)  
+_Video Producer, Videographer and Video Editor_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Picturehouse Cinemas Ltd** (start-date to end-date)  
+_On-site Supervisor and In-house Videographer_
+
+- Any experience, including roles and responsibilities and results achived in bullet point format.
+
+**Magic Memories Ltd** (start-date to end-date)  
+_Poject Manager_
 
 - Any experience relevent to software development
 
@@ -36,20 +41,27 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Videographer and Editor
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- Taught myself how to use production equipment and post-production software to a profesional standard.
+- Used Adobe Creative Cloud apps to outsource visual content for multiple bussinesses, including Picturehouse Cinemas Ltd.
+- *Link to videos*
 
-#### Another Skill
+#### Project Manager
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- As a project manager and producer, I have overseen the completion of many video projects in my role at Magic Memories and for a number of clients as a freelance videgrapher.
+- I contributed to the growth of the training faciities at T4 Bubble Tea and Magic Memories through strategic planning of training content.
+- Built upon the branding of multiple small businesses.
+- *link to showreel*
+
+#### Leadership
+
+- Acted both as an on-site Team Leader and Supervisor at Magic Memories and Picturehouse Cinemas respectively.
+- Regularly ran shifts and ensured the well-being of all team members.
+- Contributed many ideas to the betterment of the company, especially in my role as Sustainability Champion at Picturehouse Cinemas.
+- *link to reference*
 
 ## Education
 
@@ -62,16 +74,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Brighton University (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA (Hons) Media Studies degree
+- Ran media workshops in Kenya in partnership with the university
 
-#### Any other qualifications
+#### Other Qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+3 A-Levels in Mathematics, Physics and Chemistry
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+As a creative individual that has a variety of skills in the visual arts, to a proffesional standard, I have often taken an interest in the social media presence of the companies I have worked for.
