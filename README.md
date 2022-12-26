@@ -1,6 +1,6 @@
 ## Marina Papapetrou
 
-A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthustiastic team player that will ensure any project reaches completetion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results, I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I look forward to bringing new ideas to the company I work for that will help us keep up with the latest of trends.
+A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthustiastic team player that will ensure any project reaches completetion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I look forward to bringing new ideas to the company I work - ensuring we keep up with the latest trends in web and app design.
 
 ## Projects
 
