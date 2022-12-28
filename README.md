@@ -58,6 +58,7 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 #### Makers Academy (October 2022 to February 2023)
 - Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
 - Worked in groups through multiple engineering projects, utilising apps such as Slack and Trello to ensure all team members remained on course to reach the common goal.
+- Agile Development/Pair Programming
 - Ruby, Rails, JavaScript
 - RSpec, Jest
 
