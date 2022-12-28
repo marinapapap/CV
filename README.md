@@ -1,86 +1,71 @@
 ## Marina Papapetrou
 
-A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthustiastic team player that will ensure any project reaches completetion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I look forward to bringing new ideas to the company I work - ensuring we keep up with the latest trends in web and app design.
+A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I look forward to bringing new ideas to the company I work - ensuring we keep up with the latest trends in web and app design.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **BnB Booking Site**         | A webapp to allow | Ruby              |
-|                              | the listing, view-|                   |
-|                              | ing and booking of|                   |
-|                              | BnB sites.        |                   |
+| Name                         | Description                           | Tech/tools        |
+| ---------------------------- | ------------------------------------- | ----------------- |
+| **Final project**            | A webapp to do x.                     | React, Jest, etc. |
+| **BnB Booking Webapp**       | Facilitates BnB listings and bookings.| Ruby              |
+
 
 ## Work Experience
 
-**Freelance Business Owner** (start-date to end-date)  
+**Freelance Business Owner** (May 2016 to September 2022)  
 _Video Producer, Videographer and Video Editor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Consistently contributed to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
+- Organise meetings with prospective/current clients and create production plans that stick to a strict time schedule.
+- Lead on pre-production tasks including location scouting and equipment/talent hire.
 
-**Picturehouse Cinemas Ltd** (start-date to end-date)  
-_On-site Supervisor and In-house Videographer_
+**Picturehouse Cinemas Ltd** (May 2021 to December 2022)  
+_Cover Supervisor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Lead and organise the front-of-house team, facilitate communication to and from management and ensure the daily program ran to schedule.
+- Manage the playlists, ensuring all screen content had been received and uploaded.
+- Set-up AV equipment for live Q&A's, greet hosts/guests and ensure the event runs successfully and to schedule.
+- Assist with Marketing, in particular with the production of videos for various social media platforms.
 
-**Magic Memories Ltd** (start-date to end-date)  
-_Poject Manager_
+**Magic Memories Ltd** (June 2015 to June 2018)  
+_Media Manager_
 
-- Any experience relevent to software development
+- Plan, film and edit training videos covering all departments, from the Production team to Health & Safety.
+- Connect with a global network to ensure videos are on brand.
+- Creatively plan for small budgets and schedule shoots with limited time and resources.
+- Manage teams of 3-6 people through the production of video content.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### AV equipment
 
--STAR
--What was the situation/task? (ST)
+Having taught myself how to use video production equipment and post-production software, I am now able to work on video projects to a professional standard. While starting in the industry with only a foundation of knowledge, I continued to learn while I worked and always ensured that I was up-to-date with the latest trends, techniques and equipment. Working at an established cinema allowed me to work with AV equipment on a large scale, where even a minor technical mishap could negatively impact business. Equipment I worked with included:
+- Sony, Panasonic, Fuji, Canon and Nikon cameras
+- Adobe Creative Cloud (in particular Premiere Pro, AfterEffects and Audition) and Final Cut Pro
+- Various audio capture equipment including Zoom and Rode devices
+- LED lighting
 
--How was the skill used?
+#### Project Management
 
--What did you do? (action)
-
--What was the result?
-
-
-#### Videographer and Editor
-
-- Taught myself how to use production equipment and post-production software to a profesional standard.
-- Used Adobe Creative Cloud apps to outsource visual content for multiple bussinesses, including Picturehouse Cinemas Ltd.
-- *Link to videos*
-
-#### Project Manager
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- As a project manager and producer, I have overseen the completion of many video projects in my role at Magic Memories and for a number of clients as a freelance videgrapher.
-- I contributed to the growth of the training faciities at T4 Bubble Tea and Magic Memories through strategic planning of training content.
-- Built upon the branding of multiple small businesses.
-- *link to showreel*
+As a project manager, I have overseen the completion of many media projects for a number of clients on a freelance and in-house basis. I contributed to the growth of the training facilities at T4 Bubble Tea and Magic Memories through strategic planning of training content. I've also led on multiple projects to develop the branding of Refsix and Gold Arts Ltd. Throughout these projects, I have acquired an abundance of experience in managing time and budget constraints alongside the high standards set by myself and my clients. Using minimum viable product outlines and sprint deadlines, I have developed a structured system to ensure goals are met to the satisfaction of all.
 
 #### Leadership
 
-- Acted both as an on-site Team Leader and Supervisor at Magic Memories and Picturehouse Cinemas respectively.
-- Regularly ran shifts and ensured the well-being of all team members.
-- Contributed many ideas to the betterment of the company, especially in my role as Sustainability Champion at Picturehouse Cinemas.
-- *link to reference*
+While always managing to meet my own deadlines, I am also skilled in helping others meet theirs. In 2017, I worked as a media practitioner for NCS where I was required to organise and implement a 3 day workshop. During this workshop, I guided a large group of 15-17 years olds through the production of their own community media projects. While they all started with little to no media experience, everyone was able to present their projects to their peers by the end of the 3-day deadline. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+#### Makers Academy (October 2022 to February 2023)
+- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
+- Worked in groups through multiple engineering projects, utilising apps such as Slack and Trello to ensure all team members remained on course to reach the common goal.
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jest
 
-#### Brighton University (start_date to end_date)
+#### Brighton University (September 2012 to May 2015)
 
 - BA (Hons) Media Studies degree
-- Ran media workshops in Kenya in partnership with the university
+- Guided media workshops at University of Nairobi and Rongo University in Kenya
+- Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others
 
 #### Other Qualifications
 
@@ -88,4 +73,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-As a creative individual that has a variety of skills in the visual arts, to a proffesional standard, I have often taken an interest in the social media presence of the companies I have worked for.
+As a creative individual that has a variety of skills in the visual arts, to a professional standard, I have often taken an interest in the social media presence of the companies I have worked for. I also enjoy making videos for leisure - you can see some of my work on instagram (my handle is @marinapapap).
