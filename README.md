@@ -42,7 +42,7 @@ _Media Manager_
 Having taught myself how to use video production equipment and post-production software, I am now able to work on video projects to a professional standard. While starting in the industry with only a foundation of knowledge, I continued to learn while I worked and always ensured that I was up-to-date with the latest trends, techniques and equipment. Working at an established cinema allowed me to work with AV equipment on a large scale, where even a minor technical mishap could negatively impact business. Equipment I worked with included:
 - Sony, Panasonic, Fuji, Canon and Nikon cameras
 - Adobe Creative Cloud (in particular Premiere Pro, AfterEffects and Audition) and Final Cut Pro
-- Various audio capture equipment including Zoom and Rode devices
+- Various audio capture equipment including recorders, microphones and audio mixers
 - LED lighting
 
 #### Project Management
@@ -65,8 +65,8 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 #### Brighton University (September 2012 to May 2015)
 
 - BA (Hons) Media Studies degree
-- Guided media workshops at University of Nairobi and Rongo University in Kenya
-- Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others
+- Guided media workshops at University of Nairobi and Rongo University in Kenya.
+- Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others.
 
 #### Other Qualifications
 
@@ -74,4 +74,6 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 
 ## Hobbies
 
-As a creative individual that has a variety of skills in the visual arts to a professional standard, I have often taken an interest in the social media presence of the companies I have worked for. I also enjoy making videos for leisure - you can see some of my work on instagram (my handle is @marinapapap).
+As a creative individual that has a variety of skills in the visual arts, I enjoy making videos both professionally _and_ for leisure - you can see some of my work via my instagram handle @marinapapap. 
+
+As someone who took an early interest in the sciences and pursued it in my earlier school years, I have carried this interest with my into adulthood and enjoy reading popular science literature (my favourite writer being Jim Al-Khalili).
