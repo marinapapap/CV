@@ -76,4 +76,4 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 
 As a creative individual that has a variety of skills in the visual arts, I enjoy making videos both professionally _and_ for leisure - you can see some of my work via my instagram handle @marinapapap. 
 
-As someone who took an early interest in the sciences and pursued it in my earlier school years, I have carried this interest with my into adulthood and enjoy reading popular science literature (my favourite writer being Jim Al-Khalili).
+Having taken an early interest in the sciences, pursuing it in my earlier school years, I have carried this interest with my into adulthood and enjoy reading popular science literature (my favourite writer being Jim Al-Khalili).
