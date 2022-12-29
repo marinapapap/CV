@@ -7,7 +7,7 @@ A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ------------------------------------- | ----------------- |
 | **Final project**            | A webapp to do x.                     | React, Jest, etc. |
-| **BnB Booking Webapp**       | Facilitates BnB listings and bookings.| Ruby              |
+| **Makers BnB**               | An experimental Airbnb clone.         | Ruby, RSpec, irb  |
 
 
 ## Work Experience
