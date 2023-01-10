@@ -13,14 +13,14 @@ A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am 
 ## Work Experience
 
 **Freelance Business Owner** (May 2016 to September 2022)  
-_Video Producer, Videographer and Video Editor_
+_Video Producer, Videographer and Video Editor (freelance)_
 
 - Consistently contributed to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
 - Organise meetings with prospective/current clients and create production plans that stick to a strict time schedule.
 - Lead on pre-production tasks including location scouting and equipment/talent hire.
 
 **Picturehouse Cinemas Ltd** (May 2021 to December 2022)  
-_Cover Supervisor_
+_Supervisor (part-time)_
 
 - Lead and organise the front-of-house team, facilitate communication to and from management and ensure the daily program ran to schedule.
 - Manage the playlists, ensuring all screen content had been received and uploaded.
