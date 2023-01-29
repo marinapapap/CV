@@ -1,6 +1,6 @@
 ## Marina Papapetrou
 
-A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
+A creative individual looking for a role as a Full Stack Junior Developer, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
 
 ## Projects
 
@@ -13,7 +13,7 @@ A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am 
 
 ## Work Experience
 
-**Marina Papapetrou (freelancer business)** (May 2016 to September 2022)  
+**Marina Papapetrou - Videography Business** (May 2016 to September 2022)  
 _Video Producer, Videographer and Video Editor_
 
 - Consistently contributed to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
