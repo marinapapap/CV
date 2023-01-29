@@ -13,8 +13,8 @@ A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am 
 
 ## Work Experience
 
-**Freelance Business Owner** (May 2016 to September 2022)  
-_Video Producer, Videographer and Video Editor (freelance)_
+**Marina Papapetrou (freelancer business)** (May 2016 to September 2022)  
+_Video Producer, Videographer and Video Editor_
 
 - Consistently contributed to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
 - Organised meetings with prospective/current clients and created production plans that stuck to a strict time schedule.
