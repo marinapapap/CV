@@ -69,10 +69,6 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 - Guided media workshops at University of Nairobi and Rongo University in Kenya.
 - Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others.
 
-#### Other Qualifications
-
-3 A-Levels in Mathematics, Physics and Chemistry
-
 ## Hobbies
 
 As a creative individual that has a variety of skills in the visual arts, I enjoy making videos both professionally _and_ for leisure - you can see some of my work via my instagram handle @marinapapap. 
