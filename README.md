@@ -1,13 +1,14 @@
 ## Marina Papapetrou
 
-A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
+A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
 
 ## Projects
 
-| Name                         | Description                           | Tech/tools        |
-| ---------------------------- | ------------------------------------- | ----------------- |
-| **Final project**            | A webapp to do x.                     | React, Jest, etc. |
-| **Makers BnB**               | An experimental Airbnb clone.         | Ruby, RSpec, irb  |
+| Name                         | Description                             | Tech/tools                              |
+| ---------------------------- | --------------------------------------- | --------------------------------------- |
+| **Final project**            | A webapp to do x.                       | React, Jest, etc.                       |
+| **Acebook**                  | An experimental Facebook clone.         | Express, MongoDB, Node.js, Jest, Cypress|
+| **Makers BnB**               | An experimental Airbnb clone.           | Sinatra, SQL, TablePlus, RSpec, irb     |
 
 
 ## Work Experience
@@ -16,24 +17,24 @@ A creative individual looking for a role as a FULL STACK JUNIOR DEVELOPER, I am 
 _Video Producer, Videographer and Video Editor (freelance)_
 
 - Consistently contributed to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
-- Organise meetings with prospective/current clients and create production plans that stick to a strict time schedule.
-- Lead on pre-production tasks including location scouting and equipment/talent hire.
+- Organised meetings with prospective/current clients and created production plans that stuck to a strict time schedule.
+- Led on pre-production tasks including location scouting and equipment/talent hire.
 
 **Picturehouse Cinemas Ltd** (May 2021 to December 2022)  
 _Supervisor (part-time)_
 
-- Lead and organise the front-of-house team, facilitate communication to and from management and ensure the daily program ran to schedule.
-- Manage the playlists, ensuring all screen content had been received and uploaded.
-- Set-up AV equipment for live Q&A's, greet hosts/guests and ensure the event runs successfully and to schedule.
-- Assist with Marketing, in particular with the production of videos for various social media platforms.
+- Led and organised the front-of-house team, facilitated communication to and from management and ensured the daily program ran to schedule.
+- Managed the playlists, ensuring all screen content had been received and uploaded.
+- Set-up AV equipment for live Q&A's, greeted hosts/guests and ensured the event runs successfully and to schedule.
+- Assisted with Marketing, in particular with the production of videos for various social media platforms.
 
 **Magic Memories Ltd** (June 2015 to June 2018)  
 _Media Manager_
 
-- Plan, film and edit training videos covering all departments, from the Production team to Health & Safety.
-- Connect with a global network to ensure videos are on brand.
-- Creatively plan for small budgets and schedule shoots with limited time and resources.
-- Manage teams of 3-6 people through the production of video content.
+- Planned, filmed and edited training videos covering all departments, from the Production team to Health & Safety.
+- Connected with a global network to ensure videos were on brand.
+- Creatively planned for small budgets and scheduled shoots with limited time and resources.
+- Managed teams of 3-6 people through the production of video content.
 
 ## Skills
 
