@@ -4,11 +4,11 @@ A creative individual looking for a role as a Full Stack Junior Developer, I am 
 
 ## Projects
 
-| Name                         | Description                             | Tech/tools                              |
-| ---------------------------- | --------------------------------------- | --------------------------------------- |
-| **Final project**            | A webapp to do x.                       | React, Jest, etc.                       |
-| **Acebook**                  | An experimental Facebook clone.         | Express, MongoDB, Node.js, Jest, Cypress|
-| **Makers BnB**               | An experimental Airbnb clone.           | Sinatra, SQL, TablePlus, RSpec, irb     |
+| Name                         | Description                             | Tech/tools                                     |
+| ---------------------------- | --------------------------------------- | ---------------------------------------------- |
+| **Final project**            | A webapp to do x.                       | React, Jest, etc.                              |
+| **Acebook**                  | An experimental Facebook clone.         | React, Express, MongoDB, Node.js, Jest, Cypress|
+| **Makers BnB**               | An experimental Airbnb clone.           | Sinatra, SQL, TablePlus, RSpec, irb            |
 
 
 ## Work Experience
