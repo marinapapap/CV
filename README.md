@@ -16,9 +16,10 @@ A creative individual looking for a role as a Full Stack Junior Developer, I am 
 **Marina Papapetrou - Videography Business** (May 2016 to September 2022)  
 _Video Producer, Videographer and Video Editor_
 
-- Consistently contributed to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
-- Organised meetings with prospective/current clients and created production plans that stuck to a strict time schedule.
-- Led on pre-production tasks including location scouting and equipment/talent hire.
+- Trusted supplier to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
+- Proactively and efficiently structured production plans around time and budget constraints.
+- Built and maintained strong relationships with clients through regular updates with .
+- Proactively adapting budgets and schedules when encountering complications in production.
 
 **Picturehouse Cinemas Ltd** (May 2021 to December 2022)  
 _Supervisor (part-time)_
