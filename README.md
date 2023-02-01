@@ -6,36 +6,48 @@ A creative individual looking for a role as a Full Stack Junior Developer, I am 
 
 | Name                         | Description                             | Tech/tools                                     |
 | ---------------------------- | --------------------------------------- | ---------------------------------------------- |
-| **Final project**            | A webapp to do x.                       | React, Jest, etc.                              |
+| **Ecoliday**                 | A webapp where a user can plan holidays | React, Express, MongoDB, Node.js, Jest, Cypress|                               
+|                              | based on their carbon footprint.        |                                                |              
 | **Acebook**                  | An experimental Facebook clone.         | React, Express, MongoDB, Node.js, Jest, Cypress|
-| **Makers BnB**               | An experimental Airbnb clone.           | Sinatra, SQL, TablePlus, RSpec, irb            |
+| **Makers BnB**               | An experimental Airbnb clone.           | Ruby, Sinatra, SQL, TablePlus, RSpec, irb      |
 
 
 ## Work Experience
 
-**Marina Papapetrou - Videography Business** (May 2016 to September 2022)  
+**Marina Papapetrou - Videography Business** (May 2016 to September 2022) <br>
 _Video Producer, Videographer and Video Editor_
 
-- Trusted supplier to a number of established businesses and start-up's including Picturehouse Cinemas, T4 Bubble Tea and Refsix.
-- Proactively and efficiently structured production plans around time and budget constraints.
-- Built and maintained strong relationships with clients through regular updates with .
-- Proactively adapting budgets and schedules when encountering complications in production.
+- Trusted supplier to a number of established businesses including Picturehouse Cinemas, T4 Bubble Tea and SAM Music Service.
+- With rigorous attention to detail, I structured production plans around time and budget constraints.
+- Through strategically planned checkpoints in production, I built and maintained strong relationships with my clients.
+- When complications arose, such as changing time constraints or faulty equipment, I took initiative and adapted quickly to the situation.
 
-**Picturehouse Cinemas Ltd** (May 2021 to December 2022)  
-_Supervisor (part-time)_
+**Dukes at Komedia, Picturehouse Cinemas Ltd** (May 2021 to December 2022) <br>
+_Marketing Assistant_
+
+- Regularly produced, filmed and edited short-form video content that conformed to a social media schedule.
+- Took an integral role in ideation sessions within the Marketing team.
+- Proactive in my response to social media trends, I worked quickly and efficiently to complete projects. 
+
+_Supervisor_
 
 - Led and organised the front-of-house team, facilitated communication to and from management and ensured the daily program ran to schedule.
 - Managed the playlists, ensuring all screen content had been received and uploaded.
-- Set-up AV equipment for live Q&A's, greeted hosts/guests and ensured the event runs successfully and to schedule.
-- Assisted with Marketing, in particular with the production of videos for various social media platforms.
+- Set-up AV equipment for live Q&A's, greeted hosts/guests and ensured the event ran successfully and to schedule.
 
-**Magic Memories Ltd** (June 2015 to June 2018)  
-_Media Manager_
+**Magic Memories Ltd** <br>
+_Media Manager (Jan 2017 - Jul 2018)_
 
 - Planned, filmed and edited training videos covering all departments, from the Production team to Health & Safety.
 - Connected with a global network to ensure videos were on brand.
 - Creatively planned for small budgets and scheduled shoots with limited time and resources.
 - Managed teams of 3-6 people through the production of video content.
+
+_Photographer & Sales (Jun 2015 - Jan 2017)_
+
+- Maintain Key Performance Indicators (KPI) across multiple tourist attractions that accept hundreds of customers a day.
+- Train new staff.
+- Lead shifts when management were unavailable.
 
 ## Skills
 
