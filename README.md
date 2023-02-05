@@ -69,7 +69,7 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 
 ## Education
 
-**Software Development** (October 2022 to February 2023)
+**Software Development** (October 2022 to February 2023) <br>
 _Makers Academy_ 
 
 - Practiced the fundamentals of object-orientated languages.
@@ -80,7 +80,7 @@ _Makers Academy_
 - Used Trello and Slack to keep track of group engineering projects, MVP's and Sprints.
 - Used git branch/merge to develop larger scale group projects.
 
-**BA (Hons) Media Studies**  (September 2012 to May 2015)
+**BA (Hons) Media Studies** (September 2012 to May 2015) <br>
 _Brighton Univeristy_
 
 - Guided media workshops at the University of Nairobi and Rongo University in Kenya - an invaluable experience in sharing knowledge to improve the group output.
