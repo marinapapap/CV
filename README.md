@@ -51,7 +51,7 @@ _Photographer & Sales (Jun 2015 - Jan 2017)_
 
 ## Skills
 
-#### AV equipment
+#### Motivated Learner
 
 Having taught myself how to use video production equipment and post-production software, I am now able to work on video projects to a professional standard. While starting in the industry with only a foundation of knowledge, I continued to learn while I worked and always ensured that I was up-to-date with the latest trends, techniques and equipment. Working at an established cinema allowed me to work with AV equipment on a large scale, where even a minor technical mishap could negatively impact business. Equipment I worked with included:
 - Sony, Panasonic, Fuji, Canon and Nikon cameras
@@ -69,17 +69,23 @@ While always managing to meet my own deadlines, I am also skilled in helping oth
 
 ## Education
 
-#### Makers Academy (October 2022 to February 2023)
-- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- Worked in groups through multiple engineering projects, utilising apps such as Slack and Trello to ensure all team members remained on course to reach the common goal.
-- Agile Development/Pair Programming
-- Ruby, Rails, JavaScript
-- RSpec, Jest
+**Software Development** (October 2022 to February 2023)
+_Makers Academy_ 
 
-#### Brighton University (September 2012 to May 2015)
+- Practiced the fundamentals of object-orientated languages.
+- Test-Driven-Development at the core of all programs (Jest, Cypress, RSpec).
+- Designed and created SQL and NoSQL databases.
+- Learnt a consistent debugging process and in-depth error handling.
+- Regularly practiced Pair Programming and other Agile methodologies.
+- Used Trello and Slack to keep track of group engineering projects, MVP's and Sprints.
+- Used git branch/merge to develop larger scale group projects.
 
-- BA (Hons) Media Studies degree
-- Guided media workshops at University of Nairobi and Rongo University in Kenya.
+**BA (Hons) Media Studies**  (September 2012 to May 2015)
+_Brighton Univeristy_
+
+- Guided media workshops at the University of Nairobi and Rongo University in Kenya - an invaluable experience in sharing knowledge to improve the group output.
+- Practiced and developed an efficient work flow.
+- Became comfortable with self-guided learning.
 - Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others.
 
 ## Hobbies
