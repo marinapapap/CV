@@ -1,6 +1,6 @@
 ## Marina Papapetrou
 
-A creative individual looking for a role as a Full Stack Junior Developer, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seeked to level-up my skills through my own research.  With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
+A creative individual looking for a role as a Full Stack Junior Developer, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly delivered high quality products to my clients and constantly seek to level-up my skills through my own research.  With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
 
 ## Projects
 
@@ -25,29 +25,29 @@ _Video Producer, Videographer and Video Editor_
 **Dukes at Komedia, Picturehouse Cinemas Ltd** (May 2021 to December 2022) <br>
 _Marketing Assistant_
 
-- Regularly produced, filmed and edited short-form video content that conformed to a social media schedule.
+- Regularly produced, filmed and edited short-form video content that conformed to a strict schedule.
 - Took an integral role in ideation sessions within the Marketing team.
 - Proactive in my response to social media trends, I worked quickly and efficiently to complete projects. 
 
 _Supervisor_
 
-- Led and organised the front-of-house team, facilitated communication to and from management and ensured the daily program ran to schedule.
-- Managed the playlists, ensuring all screen content had been received and uploaded.
+- A confident communicator, I led and organised the front-of-house team and facilitated communication to and from upper management.
+- Always holidng myself to the highest of standards, I ensured the daily program ran to schedule with rigorous efficiency.
+- anaged the playlists
 - Set-up AV equipment for live Q&A's, greeted hosts/guests and ensured the event ran successfully and to schedule.
 
 **Magic Memories Ltd** <br>
 _Media Manager (Jan 2017 - Jul 2018)_
 
-- Planned, filmed and edited training videos covering all departments, from the Production team to Health & Safety.
-- Connected with a global network to ensure videos were on brand.
+- Promoted to a role that entailed managing all the training-based video content throughout the company.
+- Confidently communicated ideas and plans with a global network to ensure videos were on brand.
 - Creatively planned for small budgets and scheduled shoots with limited time and resources.
 - Managed teams of 3-6 people through the production of video content.
 
 _Photographer & Sales (Jun 2015 - Jan 2017)_
 
-- Maintain Key Performance Indicators (KPI) across multiple tourist attractions that accept hundreds of customers a day.
-- Train new staff.
-- Lead shifts when management were unavailable.
+- Maintaind Key Performance Indicators (KPI) across multiple tourist attractions that accepted hundreds of customers a day.
+- Trusted by upper management to train new staff and lead shifts when management were unavailable.
 
 ## Skills
 
