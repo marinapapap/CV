@@ -4,12 +4,11 @@ A creative individual looking for a role as a Full Stack Junior Developer, I am 
 
 ## Projects
 
-| Name                         | Description                             | Tech/tools                                     |
-| ---------------------------- | --------------------------------------- | ---------------------------------------------- |
-| **Ecoliday**                 | A webapp where a user can plan holidays | React, Express, MongoDB, Node.js, Jest, Cypress|                               
-|                              | based on their carbon footprint.        |                                                |              
-| **Acebook**                  | An experimental Facebook clone.         | React, Express, MongoDB, Node.js, Jest, Cypress|
-| **Makers BnB**               | An experimental Airbnb clone.           | Ruby, Sinatra, SQL, TablePlus, RSpec, irb      |
+| Name                         | Description                               | Tech/tools                                     |
+| ---------------------------- | ----------------------------------------- | ---------------------------------------------- |
+| **Ecoliday**                 | A webapp where the user can plan holidays around their carbon footprint. | React, Express, MongoDB, Node.js, Jest, Cypress, Postman, TablePlus|                                          
+| **Acebook**                  | An experimental Facebook clone.           | React, Express, MongoDB, Node.js, Jest, Cypress, Postman, TablePlus|
+| **Makers BnB**               | An experimental Airbnb clone.             | Ruby, Sinatra, SQL, TablePlus, RSpec, irb      |
 
 
 ## Work Experience
@@ -32,9 +31,9 @@ _Marketing Assistant_
 _Supervisor_
 
 - A confident communicator, I led and organised the front-of-house team and facilitated communication to and from upper management.
-- Always holidng myself to the highest of standards, I ensured the daily program ran to schedule with rigorous efficiency.
-- anaged the playlists
-- Set-up AV equipment for live Q&A's, greeted hosts/guests and ensured the event ran successfully and to schedule.
+- Always holding myself to the highest of standards, I managed the screen playlists with acute attention to detail.
+- Willing to take on high-pressured tasks, I was integral to the operation of a number of live Q&A's.
+- Being highly adaptive, I was trusted to provide solutions in the event of technical difficulties.
 
 **Magic Memories Ltd** <br>
 _Media Manager (Jan 2017 - Jul 2018)_
@@ -42,11 +41,12 @@ _Media Manager (Jan 2017 - Jul 2018)_
 - Promoted to a role that entailed managing all the training-based video content throughout the company.
 - Confidently communicated ideas and plans with a global network to ensure videos were on brand.
 - Creatively planned for small budgets and scheduled shoots with limited time and resources.
-- Managed teams of 3-6 people through the production of video content.
+- Managed teams of 3-6 people, providing direction, technical support and motivation.
 
 _Photographer & Sales (Jun 2015 - Jan 2017)_
 
-- Maintaind Key Performance Indicators (KPI) across multiple tourist attractions that accepted hundreds of customers a day.
+- Maintaind Key Performance Indicators (KPI's) across multiple, extremely busy, tourist attractions.
+- Motivated the team throughout long and busy shifts.
 - Trusted by upper management to train new staff and lead shifts when management were unavailable.
 
 ## Skills
