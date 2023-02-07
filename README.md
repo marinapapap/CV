@@ -8,7 +8,7 @@ A creative individual looking for a role as a Full Stack Junior Developer, I am 
 | ---------------------------- | ----------------------------------------- | ---------------------------------------------- |
 | **Ecoliday**                 | A webapp where the user can plan holidays around their carbon footprint. | React, Express, MongoDB, Node.js, Jest, Cypress, Postman, TablePlus|                                          
 | **Acebook**                  | An experimental Facebook clone.           | React, Express, MongoDB, Node.js, Jest, Cypress, Postman, TablePlus|
-| **Makers BnB**               | An experimental Airbnb clone.             | Ruby, Sinatra, SQL, TablePlus, RSpec, irb      |
+| **Makers BnB**               | An experimental Airbnb clone.             | Ruby, Sinatra, postgresql, TablePlus, RSpec, irb      |
 
 
 ## Work Experience
@@ -53,15 +53,11 @@ _Photographer & Sales (Jun 2015 - Jan 2017)_
 
 #### Motivated Learner
 
-Having taught myself how to use video production equipment and post-production software, I am now able to work on video projects to a professional standard. While starting in the industry with only a foundation of knowledge, I continued to learn while I worked and always ensured that I was up-to-date with the latest trends, techniques and equipment. Working at an established cinema allowed me to work with AV equipment on a large scale, where even a minor technical mishap could negatively impact business. Equipment I worked with included:
-- Sony, Panasonic, Fuji, Canon and Nikon cameras
-- Adobe Creative Cloud (in particular Premiere Pro, AfterEffects and Audition) and Final Cut Pro
-- Various audio capture equipment including recorders, microphones and audio mixers
-- LED lighting
+Having taught myself how to use video production equipment and post-production software to a professional standard, I have developed into a natural self-learner. As a freelancer, I understood that technology is always evolving, so took on this challenge by keeping up with the latest trends, techniques and equipment. I've carried this drive and willingless to constantly level-up my skills into this new path as a software developer, ensuring that my learning and knowledge continues beyond what Makers Academy has provided.
 
 #### Project Management
 
-As a project manager, I have overseen the completion of many media projects for a number of clients on a freelance and in-house basis. I contributed to the growth of the training facilities at T4 Bubble Tea and Magic Memories through strategic planning of training content. I've also led on multiple projects to develop the branding of Refsix and Gold Arts Ltd. Throughout these projects, I have acquired an abundance of experience in managing time and budget constraints alongside the high standards set by myself and my clients. Using minimum viable product outlines and sprint deadlines, I have developed a structured system to ensure goals are met to the satisfaction of all.
+This skill became particularly useful when setting, and successfully achieving, minimum viable product outlines and sprint deadlines within the Makers Academy course. As a project manager, I have overseen the completion of many media projects for a number of clients on a freelance and in-house basis. I contributed to the growth of the training facilities at T4 Bubble Tea and Magic Memories through strategic planning of training content. I've also led on multiple projects to develop the branding of Refsix and Gold Arts Ltd. Throughout these projects, I have acquired an abundance of experience in managing time and budget constraints alongside the high standards set by myself and my clients.
 
 #### Leadership
 
@@ -90,6 +86,6 @@ _Brighton Univeristy_
 
 ## Hobbies
 
-As a creative individual that has a variety of skills in the visual arts, I enjoy making videos both professionally _and_ for leisure - you can see some of my work via my instagram handle @marinapapap. 
-
-Having taken an early interest in the sciences, pursuing it in my earlier school years, I have carried this interest with my into adulthood and enjoy reading popular science literature (my favourite writer being Jim Al-Khalili).
+- A creative individual who enjoys the visual arts, I make videos both professionally _and_ for leisure - instagram handle @marinapapap. 
+- Having pursued the sciences in my earlier school years with Physics, Chemistry and Maths A-Levels, I have carried this interest with me into adulthood with my favourite popular science writer being Jim Al-Khalili.
+- Roller-blading and indoor climbing take up my more active interests.
