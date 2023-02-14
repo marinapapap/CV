@@ -1,15 +1,42 @@
 ## Marina Papapetrou
 
-A creative individual looking for a role as a Full Stack Junior Developer, I am an enthusiastic team player that will ensure any project reaches completion to the highest of standard. As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly deliver high quality products to my clients and constantly seek to level-up my skills through my own research.  With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for - ensuring we keep up with the latest trends in web app design and development.
+<a href="https://www.linkedin.com/in/marina-papapetrou-59644010b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.codewars.com/users/Marinapapap"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
+
+As a creative individual I bring ideas and, as a highly organised individual, I bring solutions. Looking for a role as a Junior Software Developer, I hope to ultilse my diverse experience to really make a difference. 
+
+As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly deliver high quality products to my clients and constantly seek to level-up my skills through my own research. I'm also an enthusiastic team player that will ensure any project reaches completion to the highest of standard.
+
+With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for and ensuring we keep up with the latest trends in web app design and development.
 
 ## Projects
 
 | Name                         | Description                               | Tech/tools                                     |
 | ---------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| **Ecoliday**                 | A webapp where the user can plan holidays around their carbon footprint. | React, Express, MongoDB, Node.js, Mongoose, Tailwind, Jest, Cypress, Postman, TablePlus|                                          
-| **Acebook**                  | An experimental Facebook clone.           | React, Express, MongoDB, Node.js, Mongoose, Tailwind, DaisyUI, Jest, Cypress, Postman, TablePlus|
-| **Makers BnB**               | An experimental Airbnb clone.             | Ruby, Sinatra, postgresql, TablePlus, RSpec, irb      |
+| <a href="https://github.com/marinapapap/Ecoliday">Ecoliday</a> | Final Makers group project - the user is given the CO2 emissions to a potential holiday destination. They can also save trips to view later. | React, Express, MongoDB, Node.js, Mongoose, Tailwind, Jest, Cypress, Postman, TablePlus|                                          
+| <a href="https://github.com/marinapapap/acebook-mern-mineshaft">Acebook</a> | Weeks 8-9 Makers group project - Facebook clone. Given a MERN codebase, we fixed bugs and expanded the project, adding key features such as posts, comments and likes. | React, Express, MongoDB, Node.js, Mongoose, Tailwind, DaisyUI, Jest, Cypress, Postman, TablePlus|
+| **Makers BnB** | Week 5 Makers group project - Airbnb clone that allows a user to list and book properties and confirm bookings. | Ruby, Sinatra, postgreSQL, TablePlus, RSpec, irb |
 
+## Education
+
+**Software Development** (October 2022 to February 2023) <br>
+_Makers Academy_ 
+
+- Practiced the fundamentals of object-orientated languages.
+- Test-Driven-Development at the core of all programs (Jest, Cypress, RSpec).
+- Designed and created SQL and NoSQL databases.
+- Learnt a consistent debugging process and in-depth error handling.
+- Regularly practiced Pair Programming and other Agile methodologies.
+- Used Trello and Slack to keep track of group engineering projects, MVP's and Sprints.
+- Used git branch/merge to develop larger scale group projects.
+
+**BA (Hons) Media Studies** (September 2012 to May 2015) <br>
+_Brighton University_
+
+- Guided media workshops at the University of Nairobi and Rongo University in Kenya - an invaluable experience in sharing knowledge to improve the group output.
+- Practiced and developed an efficient work flow.
+- Became comfortable with self-guided learning.
+- Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others.
 
 ## Work Experience
 
@@ -63,29 +90,8 @@ As a project manager, I have overseen the completion of many media projects for 
 
 In 2017, I worked as a media practitioner for NCS where I was required to organise and implement a 3 day workshop. During this workshop, I guided a large group of 15-17 years olds through the production of their own community media projects. This is one among a number of experiences that I have had the priveledge of sharing my own knowledge and passion for the betterment of a group project. Working as a team is an opportunity I always capitalise on; through a combination of being highly organised and a positive communicator, I am an ideal player to help drive a team forward.
 
-## Education
-
-**Software Development** (October 2022 to February 2023) <br>
-_Makers Academy_ 
-
-- Practiced the fundamentals of object-orientated languages.
-- Test-Driven-Development at the core of all programs (Jest, Cypress, RSpec).
-- Designed and created SQL and NoSQL databases.
-- Learnt a consistent debugging process and in-depth error handling.
-- Regularly practiced Pair Programming and other Agile methodologies.
-- Used Trello and Slack to keep track of group engineering projects, MVP's and Sprints.
-- Used git branch/merge to develop larger scale group projects.
-
-**BA (Hons) Media Studies** (September 2012 to May 2015) <br>
-_Brighton University_
-
-- Guided media workshops at the University of Nairobi and Rongo University in Kenya - an invaluable experience in sharing knowledge to improve the group output.
-- Practiced and developed an efficient work flow.
-- Became comfortable with self-guided learning.
-- Regularly worked in group research projects, laying the foundations for my ability to work cohesively with others.
-
 ## Hobbies
 
-- A creative individual who enjoys the visual arts, I make videos both professionally _and_ for leisure (Instagram: https://www.instagram.com/marinapapap/?hl=en )
+- A creative individual who enjoys the visual arts, I make videos both professionally _and_ for leisure <a href="https://www.linkedin.com/in/marina-papapetrou-59644010b/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@marinapapap&color=E4405F"></a>
 - Having pursued the sciences in my earlier school years with Physics, Chemistry and Maths A-Levels, I have carried this interest with me into adulthood, my favourite popular science writer being Jim Al-Khalili.
 - Roller-blading and indoor climbing take up my more active interests.
