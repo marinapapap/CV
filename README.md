@@ -40,41 +40,35 @@ _Brighton University_
 
 ## Work Experience
 
+**Test Evolve** <br>
+_Test Engineer (Apr 2023 - present)_
+
+• Write and maintain automation tests in JavaScript, TypeScript, Ruby and Python for TestEvolve and it's clients
+• In between client projects, I help with the development of the automation framework in TypeScript, JavaScript and Ruby
+• As consultant, I provide expert knowledge, training and skills to Test Evolve's clients
+• On project, I collaborate within an Agile environment, adhering to 2-week sprint deadlines
+
 **Marina Papapetrou - Videography Business** (May 2016 to September 2022) <br>
 _Video Producer, Videographer and Video Editor_
 
-- Trusted supplier to a number of established businesses including Picturehouse Cinemas, T4 Bubble Tea and SAM Music Service.
-- With rigorous attention to detail, I structured production plans around time and budget constraints.
-- Through strategically planned checkpoints in production, I built and maintained strong relationships with my clients.
-- When complications arose, such as changing time constraints or faulty equipment, I took initiative and adapted quickly to the situation.
+• Trusted supplier to a number of established businesses including Picturehouse Cinemas, T4 Bubble Tea and SAM Music Service.
+• With rigorous attention to detail, I structured production plans around time and budget constraints.
+• Through strategically planned checkpoints in production, I built and maintained strong relationships with my clients.
+• When complications arose, such as changing time constraints or faulty equipment, I took initiative and adapted quickly to the situation.
 
 **Duke of York’s & Dukes at Komedia, Picturehouse Cinemas Ltd** <br>
 _Marketing Assistant (September 2021 to December 2022)_
 
-- Regularly produced, filmed and edited short-form video content that conformed to a strict schedule.
-- Took a leading role in ideation sessions within the Marketing team.
-- Proactive in my response to social media trends, I worked quickly and efficiently to complete projects. 
+• Regularly produced, filmed and edited short-form video content that conformed to a strict schedule.
+• Took a leading role in ideation sessions within the Marketing team.
+• Proactive in my response to social media trends, I worked quickly and efficiently to complete projects. 
 
 _Cover Supervisor (part-time, May 2021 to December 2022)_
 
-- A confident communicator, I led and organised the front-of-house team and facilitated communication to and from upper management.
-- Always holding myself to the highest of standards, I managed the screen playlists with acute attention to detail.
-- Willing to take on high-pressured tasks, I was integral to the operation of a number of live Q&A's.
-- Being highly adaptive, I was trusted to provide solutions in the event of technical difficulties.
-
-**Magic Memories Ltd** <br>
-_Media Manager (Jan 2017 - Jul 2018)_
-
-- Promoted to a role that entailed managing all the training-based video content throughout the company.
-- Confidently communicated ideas and plans with a global network to ensure videos were on brand.
-- Creatively planned for small budgets and scheduled shoots with limited time and resources.
-- Managed teams of 3-6 people, providing direction, technical support and motivation.
-
-_Photographer & Sales (Jun 2015 - Jan 2017)_
-
-- Maintained Key Performance Indicators (KPI's) across multiple, extremely busy, tourist attractions.
-- Motivated the team throughout long and busy shifts.
-- Trusted by upper management to train new staff and lead shifts when management were unavailable.
+• A confident communicator, I led and organised the front-of-house team and facilitated communication to and from upper management.
+• Always holding myself to the highest of standards, I managed the screen playlists with acute attention to detail.
+• Willing to take on high-pressured tasks, I was integral to the operation of a number of live Q&A's.
+• Being highly adaptive, I was trusted to provide solutions in the event of technical difficulties.
 
 ## Skills
 
