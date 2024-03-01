@@ -43,10 +43,10 @@ _Brighton University_
 **Test Evolve** <br>
 _Test Engineer (Apr 2023 - present)_
 
-- Write and maintain automation tests in JavaScript, TypeScript, Ruby and Python for TestEvolve and it's clients.
+- Design write and maintain BDD automation tests in JavaScript, TypeScript, Ruby and Python for TestEvolve and it's clients.
 - In between client projects, I help with the development of the automation framework in TypeScript, JavaScript and Ruby.
 - As consultant, I provide expert knowledge, training and skills to Test Evolve's clients.
-- On project, I collaborate within an Agile environment, adhering to 2-week sprint deadlines.
+- I collaborate within different Agile environments, often adhering to 2-week sprint deadlines.
 
 **Marina Papapetrou - Videography Business** (May 2016 to September 2022) <br>
 _Video Producer, Videographer and Video Editor_
