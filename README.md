@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/marina-papapetrou-59644010b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.codewars.com/users/Marinapapap"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 
-As a creative individual I bring ideas and, as a highly organised individual, I bring solutions. Looking for a role as a Junior Software Developer, I hope to ultilse my diverse experience to really make a difference. 
+As a creative thinker and highly organised problem-solver, I bring both ideas and solutions to every project I work on. Now pursuing opportunities as a Software Engineer, I’m excited to leverage my diverse background to build high-quality, scalable web applications that make a difference.
 
-As a former freelance business owner in video production, I am a self-starter that requires little motivation to push for the best results. I regularly deliver high quality products to my clients and constantly seek to level-up my skills through my own research. I'm also an enthusiastic team player that will ensure any project reaches completion to the highest of standard.
+Before transitioning into tech, I ran my own video production business — a role that honed my self-motivation, project management, and client delivery skills. That entrepreneurial spirit still drives me today: I’m a self-starter who’s always leveling up through research, personal projects, and new challenges.
 
-With the tech industry ever-evolving, I see an unlimited potential that I, as a creatively-minded person, am eager to explore through software development. I look forward to bringing new ideas to the company I work for and ensuring we keep up with the latest trends in web app design and development.
+In my career shift into tech, I began as a Test Engineer, where I stepped into leadership responsibilities and developed a strong foundation in quality-first development, including TDD, BDD, and Agile collaboration. Now, as a Junior Software Engineer, I apply that same attention to detail and project leadership to every build.
 
 ## Projects
 
@@ -40,8 +40,15 @@ _Brighton University_
 
 ## Work Experience
 
+**Drivvn** <br>
+_Junior Software Engineer (June 2024 - present)_
+
+- Played a key role in driving the team’s adoption of CI/CD pipelines, leading improvements in testing practices and deployment efficiency.
+- Committed to building scalable, maintainable solutions that support long-term growth.
+- Hands-on experience with modern frontend technologies, including TypeScript, Next.js, and GraphQL.
+
 **Test Evolve** <br>
-_Test Engineer (Apr 2023 - present)_
+_Test Engineer (Apr 2023 - June 2024)_
 
 - Design write and maintain BDD automation tests in JavaScript, TypeScript, Ruby and Python for TestEvolve and it's clients.
 - In between client projects, I help with the development of the automation framework in TypeScript, JavaScript and Ruby.
@@ -55,20 +62,6 @@ _Video Producer, Videographer and Video Editor_
 - With rigorous attention to detail, I structured production plans around time and budget constraints.
 - Through strategically planned checkpoints in production, I built and maintained strong relationships with my clients.
 - When complications arose, such as changing time constraints or faulty equipment, I took initiative and adapted quickly to the situation.
-
-**Duke of York’s & Dukes at Komedia, Picturehouse Cinemas Ltd** <br>
-_Marketing Assistant (September 2021 to December 2022)_
-
-- Regularly produced, filmed and edited short-form video content that conformed to a strict schedule.
-- Took a leading role in ideation sessions within the Marketing team.
-- Proactive in my response to social media trends, I worked quickly and efficiently to complete projects. 
-
-_Cover Supervisor (part-time, May 2021 to December 2022)_
-
-- A confident communicator, I led and organised the front-of-house team and facilitated communication to and from upper management.
-- Always holding myself to the highest of standards, I managed the screen playlists with acute attention to detail.
-- Willing to take on high-pressured tasks, I was integral to the operation of a number of live Q&A's.
-- Being highly adaptive, I was trusted to provide solutions in the event of technical difficulties.
 
 ## Skills
 
